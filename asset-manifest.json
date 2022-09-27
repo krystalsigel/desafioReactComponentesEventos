@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/desafioReactComponentesEventos/static/css/main.d6ecabb5.css",
+    "main.js": "/desafioReactComponentesEventos/static/js/main.5892aee0.js",
+    "index.html": "/desafioReactComponentesEventos/index.html",
+    "main.d6ecabb5.css.map": "/desafioReactComponentesEventos/static/css/main.d6ecabb5.css.map",
+    "main.5892aee0.js.map": "/desafioReactComponentesEventos/static/js/main.5892aee0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6ecabb5.css",
+    "static/js/main.5892aee0.js"
+  ]
+}
